@@ -1,3 +1,3 @@
 # repo1
 This is just for practical purpose
-Author name:Rahul Yadav
+Author name:Rahul  a Student
